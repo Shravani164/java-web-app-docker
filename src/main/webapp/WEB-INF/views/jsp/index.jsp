@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies Private Limited, Banglore, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226</h3>
+			<h2>Welcome To Shravani Technologies Private Limited, Hyderabad and Anantapur.</h2>
+			<h3>Contact @ +91-9876543210</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2024</p>
+		<p>&copy; Shravani Technologies 2024</p>
 	</footer>
 </div>
 
